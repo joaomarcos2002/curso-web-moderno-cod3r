@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.3.1",
+    "body-parser": "1.18.2",
+    "lodash": "^4.17.21",
+    "node-schedule": "1.3.0"
+  },
+  "name": "curso-web-moderno-cod3r",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomarcos2002/curso-web-moderno-cod3r.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomarcos2002/curso-web-moderno-cod3r/issues"
+  },
+  "homepage": "https://github.com/joaomarcos2002/curso-web-moderno-cod3r#readme",
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
